@@ -5,17 +5,17 @@ dont forget to tell on the discrod server if you encounter bugs!
 
 # features
 ## Executor
--- Execute Button
--- Paste And Execute Button
--- Dev Mode Button
--- Clear Button
+1.- Execute Button
+2.- Paste And Execute Button
+3.- Dev Mode Button
+4.- Clear Button
 
 ## Script Hub
--- Search scripts
--- Change scripts page
+1.- Search scripts
+2.- Change scripts page
 
 ## Settings
---Nothing for the moment sorry!
+1.- Nothing for the moment sorry!
 
 # ¡Important announcement!
 ## Bugs
