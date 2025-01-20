@@ -1,5 +1,7 @@
 # VegaX-remake
 ## Made By @randomguy7028 idea by @eldonnadie820
+well enjoy the script!
+dont forget to tell on the discrod server if you encounter bugs!
 
 # features
 ## Executor
