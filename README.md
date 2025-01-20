@@ -1,6 +1,7 @@
 # VegaX-remake
 ## Made By @randomguy7028 idea by @eldonnadie820
 well enjoy the script!
+
 dont forget to tell on the discrod server if you encounter bugs!
 
 # features
@@ -15,6 +16,7 @@ dont forget to tell on the discrod server if you encounter bugs!
 
 ## Script Hub
 1.- Search scripts
+
 2.- Change scripts page
 
 ## Settings
@@ -23,6 +25,7 @@ dont forget to tell on the discrod server if you encounter bugs!
 # ¡Important announcement!
 ## Bugs
 1.- bc this script is on beta there will be some bugs
+
 2.- Dont click two buttons at the same time or the gui will bug
 
 # script
