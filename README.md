@@ -6,8 +6,11 @@ dont forget to tell on the discrod server if you encounter bugs!
 # features
 ## Executor
 1.- Execute Button
+
 2.- Paste And Execute Button
+
 3.- Dev Mode Button
+
 4.- Clear Button
 
 ## Script Hub
