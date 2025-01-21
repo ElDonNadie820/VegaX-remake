@@ -32,4 +32,5 @@ dont forget to tell on the discrod server if you encounter bugs!
 ## loadstring:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ElDonNadie820/VegaX-remake/refs/heads/main/VegaX.lua"))()
-```
+``
+bug wait until fix
